@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+To be continued.
 <!--
 **11808s8/11808s8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Links
+
+![Personal Site](https://img.shields.io/badge/adrianogs.com-Reach%20out-black) ![GitHub followers](https://img.shields.io/github/followers/11808s8?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/11808s8?style=social)
+
+### Stats
+
+![Adriano's Github Stats](https://github-readme-stats.vercel.app/api?username=11808s8&show_icons=true&theme=tokyonight) 
