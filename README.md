@@ -2,7 +2,6 @@
 
 - Cloud Engineer & Software Developer.  
 - Currently @ [Mission](https://missioncloud.com).  
-- AWS, Terraform, Python, PHP, JS, PostgreSQL, MongoDB, HTML/CSS, Go...  
 - Reach out, lets connect! 
 
 <!--
@@ -19,6 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👨‍💻 Tech
+
+- AWS, Terraform, Python, PHP, JS, PostgreSQL, MongoDB, HTML/CSS, Go...  
 
 ### 📫 Links
 
