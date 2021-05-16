@@ -1,6 +1,10 @@
-### Hi there 👋
+### 👋 Howdy
 
-To be continued.
+- Cloud Engineer & Software Developer.  
+- Currently @ [Mission](https://missioncloud.com).  
+- AWS, Terraform, Python, PHP, JS, PostgreSQL, MongoDB, HTML/CSS, Go...  
+- Reach out, lets connect! 
+
 <!--
 **11808s8/11808s8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,10 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Links
+### 📫 Links
 
-![Personal Site](https://img.shields.io/badge/adrianogs.com-Reach%20out-black) ![GitHub followers](https://img.shields.io/github/followers/11808s8?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/11808s8?style=social)
+![Personal Site](https://img.shields.io/badge/adrianogs.com-Reach%20out-black) [![!Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianogs/) [![GitHub followers](https://img.shields.io/github/followers/11808s8?label=Follow&style=social)](https://github.com/11808s8) [![Twitter Follow](https://img.shields.io/twitter/follow/11808s8?style=social)](https://twitter.com/11808s8)
 
-### Stats
+### ⚡ Stats
 
-![Adriano's Github Stats](https://github-readme-stats.vercel.app/api?username=11808s8&show_icons=true&theme=tokyonight) 
+[!![Adriano's Github Stats](https://github-readme-stats.vercel.app/api?username=11808s8&show_icons=true&theme=tokyonight)](https://github.com/11808s8)
