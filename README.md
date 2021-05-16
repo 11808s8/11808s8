@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ### ⚡ Stats
 
-[!![Adriano's Github Stats](https://github-readme-stats.vercel.app/api?username=11808s8&show_icons=true&theme=tokyonight)](https://github.com/11808s8)
+[![Adriano's Github Stats](https://github-readme-stats.vercel.app/api?username=11808s8&show_icons=true&theme=tokyonight)](https://github.com/11808s8)
