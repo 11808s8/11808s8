@@ -1,8 +1,7 @@
 ### 👋 Hey there stranger!
 
 - Cloud Engineer & Software Developer.  
-- Currently @ [Mission](https://missioncloud.com).  
-- Reach out, lets connect! More on [adrianogs.com](https://github.com/11808s8/Python-Packet-Sniffer)
+- Reach out, lets connect! More on [adrianogs.com](https://adrianogs.com)
 
 <!--
 **11808s8/11808s8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
